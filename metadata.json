@@ -1,0 +1,6 @@
+{
+  "name": "SMT Holidays - Tour & Travels",
+  "description": "Travel and tour agency landing page for SMT Holidays based in Sankarankovil, Tamil Nadu, India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
